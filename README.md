@@ -21,7 +21,7 @@
 
 ### Professional Summary
 
-A dedicated and responsible professional with experience in customer service, inventory management, and purchasing. He previously worked as a Freelance Web Developer from 2019 to 2024, specialising in Front End development. Since 2024, he has been working at Apotek Hayy Farma, where he has been entrusted with roles in customer service, stock opname, and purchasing. He is a graduate of Software Engineering from SMK Negeri 1 Cilegon.
+A dedicated and responsible professional with experience in customer service, inventory management, and purchasing. He previously worked as a Freelance Web Developer from 2019 to 2024, specialising in Front End development. Since 2024, he has been working at Apotek Hayy Farma, where he has been entrusted with roles in customer service, cashier operations, stock opname, and purchasing. He is a graduate of Software Engineering from SMK Negeri 1 Cilegon.
 
 ---
 
@@ -32,6 +32,9 @@ A dedicated and responsible professional with experience in customer service, in
 
 #### Crew / Customer Service
 Responsible for serving customers in a friendly and professional manner, assisting them in finding the products they need, providing clear product information, and supporting the smooth running of daily pharmacy operations, including maintaining orderliness and cleanliness in the service area.
+
+#### Cashier
+Responsible for processing customer transactions accurately and efficiently through the point of sale (POS) system, handling cash and non-cash payments, issuing receipts, and ensuring the accuracy of daily sales records. This also includes balancing and reporting cash at the end of each shift and maintaining a friendly and professional attitude while serving customers at checkout.
 
 #### Person in Charge of Stock Opname
 Responsible for planning and conducting periodic stock opname, counting physical inventory, and reconciling the results with inventory records. This includes identifying and reporting any discrepancies, tracing the causes of variances, and ensuring that inventory data remains accurate and accountable.
@@ -56,6 +59,8 @@ Responsible for developing websites for clients on a freelance basis, with a par
 ## Core Skills
 
 - Customer Service
+- Cashier & Point of Sale (POS) Operations
+- Cash Handling & Daily Sales Reporting
 - Inventory Management & Stock Opname
 - Purchasing & Procurement
 - Stock Monitoring & Reporting
