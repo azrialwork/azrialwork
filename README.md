@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Azrial</h1>
+<h1 align="center">Halo, Saya Muhammad Azrial 👋</h1>
 
 <p align="center">
   Indonesia &nbsp;•&nbsp;
@@ -8,83 +8,115 @@
 
 ---
 
-## Curriculum Vitae
+## Tentang Saya
 
-### Personal Information
+Saya Muhammad Azrial, lahir di Serang pada 2 Maret 2002. Saya adalah lulusan Rekayasa Perangkat Lunak dari SMK Negeri 1 Cilegon tahun 2020. Latar belakang pendidikan tersebut membentuk cara saya bekerja hingga saat ini: teliti, sistematis, dan terbiasa menggunakan teknologi dalam menyelesaikan pekerjaan.
+
+Berbekal kemampuan tersebut, saya memulai pengalaman kerja saya sebagai Web Developer freelance pada tahun 2019 hingga 2024, dengan fokus pada pengembangan Front End. Selama menjadi freelance, saya belajar memahami kebutuhan klien, berkomunikasi dengan baik, dan menyelesaikan pekerjaan secara bertanggung jawab dan tepat waktu. Pengalaman itulah yang kemudian menjadi fondasi saya ketika memasuki dunia kerja yang berhadapan langsung dengan pelanggan.
+
+Sejak tahun 2024, saya bergabung dengan Apotek Hayy Farma. Di sini, pengalaman saya dalam melayani klien berkembang menjadi pelayanan langsung kepada pelanggan, yang kemudian berjalan beriringan dengan tanggung jawab saya dalam mengelola transaksi, menjaga keakuratan stok, dan memastikan ketersediaan produk. Bagi saya, keempat tanggung jawab tersebut saling berkesinambungan: pelayanan yang baik membutuhkan transaksi yang akurat, transaksi yang akurat membutuhkan data stok yang benar, dan stok yang benar hanya dapat terjaga apabila proses pembelian berjalan dengan baik. Rangkaian tanggung jawab itulah yang saya jalani dan saya uraikan pada bagian pengalaman kerja berikut.
+
+---
+
+## Informasi Pribadi
 
 | | |
 |---|---|
-| **Full Name** | Muhammad Azrial |
-| **Place & Date of Birth** | Serang, March 2, 2002 |
+| **Nama Lengkap** | Muhammad Azrial |
+| **Tempat, Tanggal Lahir** | Serang, 2 Maret 2002 |
 | **Email** | [azrial.work@gmail.com](mailto:azrial.work@gmail.com) |
 | **GitHub** | [@azrialwork](https://github.com/azrialwork) |
 
-### Professional Summary
-
-A dedicated and responsible professional with experience in customer service, inventory management, and purchasing. He previously worked as a Freelance Web Developer from 2019 to 2024, specialising in Front End development. Since 2024, he has been working at Apotek Hayy Farma, where he has been entrusted with roles in customer service, cashier operations, stock opname, and purchasing. He is a graduate of Software Engineering from SMK Negeri 1 Cilegon.
-
 ---
 
-## Work Experience
+## Pengalaman Kerja
 
 ### Apotek Hayy Farma
-**2024 — Present**
+**2024 — Sekarang**
 
-#### Crew / Customer Service
-Responsible for serving customers in a friendly and professional manner, assisting them in finding the products they need, providing clear product information, and supporting the smooth running of daily pharmacy operations, including maintaining orderliness and cleanliness in the service area.
+Di Apotek Hayy Farma, saya dipercaya mengemban beberapa jabatan yang saling berhubungan dalam satu alur pelayanan dan operasional, yaitu:
 
-#### Cashier
-Responsible for processing customer transactions accurately and efficiently through the point of sale (POS) system, handling cash and non-cash payments, issuing receipts, and ensuring the accuracy of daily sales records. This also includes balancing and reporting cash at the end of each shift and maintaining a friendly and professional attitude while serving customers at checkout.
+#### 1. Staf Layanan Pelanggan
+*Nama profesional dari jabatan Pelayan/Crew*
 
-#### Person in Charge of Stock Opname
-Responsible for planning and conducting periodic stock opname, counting physical inventory, and reconciling the results with inventory records. This includes identifying and reporting any discrepancies, tracing the causes of variances, and ensuring that inventory data remains accurate and accountable.
+Sebagai Staf Layanan Pelanggan, saya melayani pelanggan dengan ramah dan profesional, membantu pelanggan menemukan produk yang mereka butuhkan, serta memberikan informasi produk secara jelas. Dari peran inilah alur pekerjaan saya dimulai, karena melalui pelayanan saya dapat memahami kebutuhan pelanggan, yang selanjutnya saya tindaklanjuti melalui proses transaksi, pengecekan stok, hingga pemenuhan ketersediaan produk.
 
-#### Person in Charge of Purchasing
-Responsible for managing the purchasing of products and operational supplies, communicating and coordinating with suppliers and distributors, and preparing purchase orders based on stock requirements. This also includes monitoring stock availability to prevent shortages or overstocking, verifying incoming goods against purchase orders and invoices, and maintaining accurate purchasing records.
+#### 2. Kasir
+*Jabatan profesional: Cashier*
 
-### Freelance Web Developer
+Sebagai Kasir, saya melanjutkan pelayanan tersebut ke tahap transaksi. Saya memproses pembayaran pelanggan secara akurat dan efisien melalui sistem Point of Sale (POS), menangani pembayaran tunai maupun non-tunai, menerbitkan struk, serta memastikan catatan penjualan harian saya sesuai. Di akhir shift, saya menyeimbangkan dan melaporkan uang kas yang saya kelola, sehingga tanggung jawab saya dalam melayani pelanggan juga saya jaga melalui ketelitian dan kejujuran dalam mengelola transaksi.
+
+#### 3. Penanggung Jawab Pengendalian Persediaan
+*Nama profesional dari jabatan Penanggung Jawab Stock Opname — Inventory Control*
+
+Sebagai Penanggung Jawab Pengendalian Persediaan, saya menjaga agar transaksi yang saya proses sebagai kasir selalu didukung oleh data stok yang akurat. Saya merencanakan dan melaksanakan stock opname secara berkala, menghitung stok fisik, lalu mencocokkannya dengan catatan persediaan. Apabila saya menemukan selisih, saya menelusuri penyebabnya dan melaporkannya, sehingga data persediaan tetap dapat dipertanggungjawabkan dan menjadi dasar yang tepat bagi proses pembelian.
+
+#### 4. Penanggung Jawab Pembelian
+*Nama profesional dari jabatan Penanggung Jawab Purchase — Purchasing Officer*
+
+Sebagai Penanggung Jawab Pembelian, saya menindaklanjuti data persediaan tersebut dengan memastikan produk selalu tersedia untuk pelanggan. Saya mengelola pembelian produk dan kebutuhan operasional, berkoordinasi dengan supplier dan distributor, serta menyusun pesanan pembelian berdasarkan kebutuhan stok. Selain itu, saya memantau ketersediaan stok agar tidak terjadi kekosongan maupun penumpukan barang, memverifikasi barang yang datang dengan pesanan dan faktur, serta mencatat setiap pembelian secara rapi. Dengan demikian, hasil pekerjaan saya pada bagian pembelian kembali mendukung peran saya dalam melayani pelanggan, karena pelanggan hanya dapat saya layani dengan baik apabila produk yang mereka butuhkan tersedia.
+
+### Web Developer Freelance
 **2019 — 2024**
 
-Responsible for developing websites for clients on a freelance basis, with a particular focus on Front End development. This included building responsive and user-friendly interfaces and delivering websites according to client requirements, from initial development through to completion.
+Sebelum bergabung dengan Apotek Hayy Farma, saya mengembangkan berbagai website untuk klien sebagai Web Developer freelance, dengan fokus utama pada Front End. Saya membangun tampilan website yang responsif dan mudah digunakan, serta menyelesaikannya sesuai kebutuhan klien dari awal hingga selesai. Melalui pengalaman ini, saya mengasah kemampuan teknologi, komunikasi, dan tanggung jawab yang hingga kini tetap saya terapkan, terutama ketika saya menggunakan sistem POS, mengelola data stok, dan menyusun laporan secara digital di tempat saya bekerja sekarang.
 
 ---
 
-## Education
+## Pendidikan
 
 ### SMK Negeri 1 Cilegon
-**Software Engineering (Rekayasa Perangkat Lunak) — Graduated in 2020**
+**Jurusan Rekayasa Perangkat Lunak — Lulus Tahun 2020**
+
+Pendidikan saya di bidang Rekayasa Perangkat Lunak memberikan saya dasar berpikir yang logis dan terstruktur, yang kemudian saya kembangkan melalui pengalaman freelance dan saya terapkan kembali dalam pekerjaan saya yang berbasis pelayanan, transaksi, dan pengelolaan data persediaan.
 
 ---
 
-## Core Skills
+## Keahlian
 
-- Customer Service
-- Cashier & Point of Sale (POS) Operations
-- Cash Handling & Daily Sales Reporting
-- Inventory Management & Stock Opname
-- Purchasing & Procurement
-- Stock Monitoring & Reporting
-- Front End Web Development
-- Responsive Web Design
-- Microsoft Word
-- Microsoft Excel
+Keahlian yang saya miliki merupakan hasil dari rangkaian pengalaman di atas, sehingga setiap keahlian saya saling mendukung dan berhubungan langsung dengan jabatan yang saya emban.
+
+### Hard Skill
+
+Keahlian teknis yang saya gunakan secara langsung dalam pekerjaan saya sehari-hari:
+
+- **Pelayanan Pelanggan dan Penjualan** — saya terapkan sebagai Staf Layanan Pelanggan dalam membantu dan melayani kebutuhan pelanggan.
+- **Pengoperasian Kasir dan Sistem Point of Sale (POS)** — saya terapkan sebagai Kasir dalam memproses pembayaran tunai dan non-tunai, menerbitkan struk, serta menyusun laporan dan rekonsiliasi kas harian.
+- **Pengendalian Persediaan dan Stock Opname** — saya terapkan sebagai Penanggung Jawab Pengendalian Persediaan dalam menghitung stok fisik, mencocokkannya dengan catatan, dan menindaklanjuti selisih stok.
+- **Pembelian dan Pengadaan Barang** — saya terapkan sebagai Penanggung Jawab Pembelian dalam menyusun pesanan, berkoordinasi dengan supplier dan distributor, serta memverifikasi barang yang datang.
+- **Microsoft Word dan Microsoft Excel** — saya gunakan untuk mendukung seluruh administrasi pekerjaan saya, mulai dari pencatatan, pengolahan data stok dan penjualan, hingga penyusunan laporan pembelian.
+- **Pengembangan Web Front End** — saya peroleh dari pengalaman saya sebagai Web Developer freelance, termasuk dalam membangun website yang responsif dan mudah digunakan.
+
+### Soft Skill
+
+Sikap dan kemampuan personal yang memastikan keahlian teknis saya dapat saya jalankan dengan baik:
+
+- **Komunikasi** — saya gunakan untuk melayani pelanggan, berkoordinasi dengan supplier, dan memahami kebutuhan klien selama saya menjadi freelance.
+- **Ketelitian dan Keakuratan** — saya terapkan ketika saya menghitung uang kas, menghitung stok, dan memeriksa kesesuaian barang dengan faktur, karena kesalahan kecil pada pekerjaan tersebut berdampak besar.
+- **Integritas dan Tanggung Jawab** — saya pegang ketika saya dipercaya mengelola uang, persediaan, dan pembelian, yang seluruhnya membutuhkan kejujuran dan dapat dipertanggungjawabkan.
+- **Kerja Sama Tim** — saya terapkan agar alur pelayanan, transaksi, persediaan, dan pembelian di tempat saya bekerja berjalan selaras.
+- **Manajemen Waktu** — saya terapkan untuk membagi perhatian saya antara melayani pelanggan, mengelola transaksi, dan menyelesaikan tugas persediaan serta pembelian sesuai prioritas.
+- **Pemecahan Masalah** — saya terapkan ketika saya menghadapi selisih stok, kekosongan produk, maupun kendala transaksi, dengan mencari penyebabnya terlebih dahulu sebelum menentukan penyelesaian.
+- **Adaptabilitas dan Kemauan Belajar** — saya buktikan melalui perjalanan saya dari bidang teknologi sebagai Web Developer freelance menuju bidang pelayanan dan operasional apotek, dengan tetap membawa dan menerapkan kemampuan saya sebelumnya.
 
 ---
 
-## GitHub Stats
+## Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azrialwork&show_icons=true&theme=default&hide_border=true" alt="Muhammad Azrial's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrialwork&layout=compact&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azrialwork&show_icons=true&theme=default&hide_border=true" alt="Statistik GitHub Muhammad Azrial" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrialwork&layout=compact&hide_border=true" alt="Bahasa Pemrograman Utama" height="165" />
 </p>
 
 ---
 
-## Contact
+## Kontak
+
+Apabila Anda ingin menghubungi saya, saya dapat dihubungi melalui:
 
 - **Email:** [azrial.work@gmail.com](mailto:azrial.work@gmail.com)
 - **GitHub:** [@azrialwork](https://github.com/azrialwork)
 
 <p align="center">
-  <em>Thank you for visiting my profile.</em>
+  <em>Terima kasih telah mengunjungi profil saya.</em>
 </p>
