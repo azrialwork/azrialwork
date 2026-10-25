@@ -66,6 +66,8 @@ Responsible for developing websites for clients on a freelance basis, with a par
 - Stock Monitoring & Reporting
 - Front End Web Development
 - Responsive Web Design
+- Microsoft Word
+- Microsoft Excel
 
 ---
 
