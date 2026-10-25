@@ -1,42 +1,70 @@
-<h1 align="center">Hi, I'm Muhammad Azrial 👋</h1>
+<h1 align="center">Muhammad Azrial</h1>
 
 <p align="center">
-  <strong>Fullstack Web Developer</strong> based in Indonesia
+  <strong>Fullstack Web Developer</strong>
 </p>
 
 <p align="center">
-  I build modern, scalable, and user-focused web applications — from intuitive user interfaces to robust backend systems and APIs.
-</p>
-
-<p align="center">
-  <a href="https://github.com/azrialwork?tab=followers">
-    <img src="https://img.shields.io/github/followers/azrialwork?label=Follow&style=social" alt="Follow Muhammad Azrial on GitHub" />
-  </a>
+  Indonesia &nbsp;•&nbsp;
+  <a href="mailto:azrial.work@gmail.com">azrial.work@gmail.com</a> &nbsp;•&nbsp;
+  <a href="https://github.com/azrialwork">github.com/azrialwork</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 📄 Curriculum Vitae
 
-- 💻 I'm a **Fullstack Web Developer** passionate about building products for the web
-- 🎯 Focused on clean code, good architecture, and great user experience
-- 🌱 Always learning and exploring new technologies in web development
-- 🤝 Open to collaboration on interesting web projects and open source
-- 📍 Based in **Indonesia**
+### 👤 Biodata
 
-## 🛠️ What I Do
+| | |
+|---|---|
+| **Nama** | Muhammad Azrial |
+| **Tempat, Tanggal Lahir** | Serang, 02 Maret 2002 |
+| **Profesi** | Fullstack Web Developer |
+| **Email** | [azrial.work@gmail.com](mailto:azrial.work@gmail.com) |
+| **GitHub** | [@azrialwork](https://github.com/azrialwork) |
 
-- **Frontend Development** — Responsive, accessible, and interactive user interfaces
-- **Backend Development** — Server-side logic, business rules, and application architecture
-- **API Development** — Designing and building RESTful APIs
-- **Database Management** — Data modelling and working with relational & non-relational databases
-- **End-to-End Delivery** — Taking a web application from idea to deployment
+### 📝 Ringkasan Profil
 
-## 🚀 My Approach
+Fullstack Web Developer dengan pengalaman sebagai Freelance Web Developer sejak 2019, dengan keahlian khusus di bidang Front End Development. Lulusan Rekayasa Perangkat Lunak yang terbiasa membangun website yang modern, responsif, dan berfokus pada pengalaman pengguna. Saat ini bekerja di Apotek Hayy Farma sejak 2024.
 
-> Build it clean. Build it scalable. Build it for the user.
+---
 
-I care about writing maintainable code, choosing the right tool for the problem, and delivering web applications that are fast, reliable, and easy to evolve.
+## 💼 Riwayat Pekerjaan
+
+### Apotek Hayy Farma
+**2024 — Sekarang**
+
+- Bekerja di Apotek Hayy Farma sejak tahun 2024 hingga saat ini.
+
+### Freelance Web Developer — Front End
+**2019 — 2024**
+
+- Mengerjakan proyek web secara freelance selama 5 tahun.
+- Spesialisasi pada Front End Development: membangun tampilan website yang modern, responsif, dan user-friendly.
+- Berpengalaman mengembangkan website dari kebutuhan client hingga selesai.
+
+---
+
+## 🎓 Riwayat Pendidikan
+
+### SMK Negeri 1 Cilegon
+**Jurusan Rekayasa Perangkat Lunak — Lulus 2020**
+
+- Rekayasa Perangkat Lunak (RPL) / Software Engineering.
+
+---
+
+## 🛠️ Keahlian
+
+- **Fullstack Web Development**
+- **Front End Development** — spesialisasi
+- **Backend Development**
+- **API Development**
+- **Responsive Web Design**
+- **Database Management**
+
+---
 
 ## 📊 GitHub Stats
 
@@ -45,17 +73,13 @@ I care about writing maintainable code, choosing the right tool for the problem,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrialwork&layout=compact&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azrialwork&hide_border=true" alt="GitHub Streak" />
-</p>
-
-## 📫 Connect With Me
-
-- **GitHub:** [@azrialwork](https://github.com/azrialwork)
-- **Email:** [azrial.work@gmail.com](mailto:azrial.work@gmail.com)
-
 ---
 
+## 📫 Kontak
+
+- **Email:** [azrial.work@gmail.com](mailto:azrial.work@gmail.com)
+- **GitHub:** [@azrialwork](https://github.com/azrialwork)
+
 <p align="center">
-  <em>Thanks for visiting my profile — feel free to explore my repositories and connect.</em>
+  <em>Terima kasih telah mengunjungi profil saya.</em>
 </p>
